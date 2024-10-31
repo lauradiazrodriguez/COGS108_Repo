@@ -1,0 +1,87 @@
+COGS 108 Project Proposal
+
+Team Members Names
+Amdadul Haque
+Isha Khirwadkar
+Deja Briscoe
+Noemi Salmeron
+Laura Diaz Rodriguez
+
+Research Question
+What are the main factors influencing housing prices in downtown San Diego?
+
+
+Independent Variables
+Average property size (square footage or unit stored in dataset)
+Number of bedrooms
+Number of bathrooms
+Age of properties (new vs. old constructions)
+
+Dependent Variables
+Price per square foot (or unit stored in the dataset)
+
+Background and Prior Work
+Housing prices in downtown San Diego are influenced by a variety of economic, social, and environmental factors. Some factors may include economic indicators such as income levels, employment rates, and interest rates, as well as neighbourhood-specific elements such as proximity to amenities, crime rates, and quality of local schools. Our research aims to analyze the main drivers of housing prices in downtown San Diego. Research that was done before on this states that the reason for the high prices for housing is the population growth and interest rate going up exponentially.
+Citation
+
+Hypothesis
+We believe that factors such as proximity to amenities (restaurants, shopping areas, public transportation), overall property size, building age, crime rates, and economic indicators like median household income and employment rates. 
+Our hypothesis suggests that housing prices in downtown San Diego are shaped by a mix of micro-level (e.g. property characteristics) and macro-level (e.g. economic conditions) factors, reflecting both the intrinsic value of the properties and the desirability of the location.
+
+Data
+Our ideal data set for this project would answer the pricing of the house for sale and include details on property values (number of bedrooms and bathrooms, size of property, year built) and possibly location characteristics as well. Ideally our dataset would cover around 500 or so properties and this data would be collected through Zillow. The dataset would ideally be stored with the main categories of housing price, property characteristics, and possible location characteristics. A potential dataset that we will use will come from Zillow. 
+ 
+Ethics and Privacy
+The data set we used is based from Zillow’s housing data section of their website. The data set was substantial and did not contain any personal or private information from its listings, therefore breach of privacy was not a concern. All of the data shown on this website is information available to the public therefore the concern of violating any privacy terms would not be a problem. Zillow pulls data from the properties from county records which is regularly updated therefore there should be no bias in the data as it is accurate and public information. For our data set we are just focusing on downtown San Diego therefore it would not exclude certain populations as we are focusing on a specific area.
+
+Team Expectations
+Our team will prioritize effective communication and a collaborative tone to keep everything on track. For daily communication, we’ll use iMessage, with responses expected within 2–3 hours to keep things moving smoothly. Weekly virtual meetings on Mondays will help us stay aligned and troubleshoot any issues. We’ll aim for a tone that’s "blunt but polite," encouraging open feedback with a focus on solutions. For example, we’ll phrase criticism constructively: "I think X is a problem because of Y. Does everyone else agree, or am I missing something?" Major project decisions will require a unanimous vote, while smaller, section-specific ones will follow a majority rule, allowing for flexibility if someone is unavailable. Our work style will be balanced; while we’ll all contribute equally at first, as we progress, team members can focus on areas where they excel. If anyone is struggling with their tasks, they should notify the group immediately via the group chat. In these cases, we’ll divide responsibilities to ensure we meet our shared deadlines, which will generally be set for noon on the due date. Additionally, team members are expected to track task progress using the Google spreadsheet here.
+
+Project Timeline Proposal
+
+10/21
+8 PM
+Think and brainstorm about COGS 108 project expectations; review past COGS 108 projects 
+Determine which projects will be reviewed; discuss final project topic; begin working on project proposal 
+
+10/23
+7 PM
+Finish project review; Do background research on topic
+Finish discussing past COGS 108 project; Discuss ideal dataset(s) and ethics; draft project proposal
+
+10/28
+10 AM
+Edit, and work on project proposal; begin search for datasets
+Discuss any analytical approaches; Assign group members to lead each specific part; work on team expectations and project timeline 
+
+10/30
+12 PM
+Edit and finalize any work on project proposal 
+Finalize project proposal and work on anything that needs to be done and add any touch-ups; submit final version of project proposal
+
+11/11
+5 PM
+Work on any progress towards Checkpoint #1, work on Importing & Wrangling Data  
+Review/Edit wrangling/EDA; Discuss Analysis Plan; work on anything to get to Checkpoint Progress #1
+
+11/13
+12 PM
+Finalize wrangling/EDA; Begin working on any Analysis; finalize any work for Checkpoint #1
+Discuss/edit Analysis; Finalize any work that needs to be done for Checkpoint #1
+
+11/25
+6 PM
+Complete analysis; Draft results/conclusion/discussion 
+Work on getting to Checkpoint #2; Discuss/edit project
+
+11/27
+12pm
+Complete and work on finishing EDA
+Work on anything that needs to get done to get to Checkpoint #2
+
+12/11
+Before 11:59 PM
+Finalize project
+Work on anything to get project to final state; Turn in Final Project & Group Project Surveys
+
+
